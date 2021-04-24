@@ -1,4 +1,4 @@
-<img src="1.png">
+<img src="https://www.xn--9iqq1jkrnz33d.cn:3029/server/icon.jpg">
 
 <div align="center">
   <h1>匠心之魂 1.12.2</h1>
