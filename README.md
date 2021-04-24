@@ -1,9 +1,9 @@
 <img src="https://www.xn--9iqq1jkrnz33d.cn:3029/server/icon.jpg">
 
 <div align="center">
-  <h1>匠心之魂 1.12.2</h1>
+  <h1>匠心之魂 服务器</h1>
 
-### 匠心之魂-1.12.2,基于Minceaft的公益Moded服务器
+### 匠心之魂服务器,基于Minceaft的公益Moded服务器
 
 [![](https://img.shields.io/github/stars/srlss123/jxzzfwq.svg?label=Stars&logo=github)](https://github.com/srlss123/jxzzfwq/stargazers)
 [![](https://img.shields.io/github/license/srlss123/jxzzfwq?)](https://github.com/srlss123/jxzzfwq/blob/1.12.2/LICENSE)
@@ -19,7 +19,7 @@
 上游项目
 ------
 * [**匠心之魂1.16.5**]
-* [**匠心之魂1.12.2**]
+* [**匠心之魂1.12.2**]![](https://img.shields.io/badge/building-success-brightgreen.svg?colorB=469C00)
 * [**匠心之魂1.7.10**]
 
 特别感谢
