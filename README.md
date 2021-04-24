@@ -30,9 +30,9 @@
 特别感谢
 -------------
 * [**Arclight**](https://github.com/IzzelAliz/Arclight.git) Arclight是1.16.5的Forge+Bukkit+Spigot服务端核心,国内最早开发的高版本核心(服务端)
-* [**LoliServer**](https://github.com/Loli-Server/LoliServer.git) LoliServer是1.16.5基于Forge并融合Paper/Spigot/Bukkit的高性能高兼容性的服务端核心（服务端）
 * [**Mohist**](https://github.com/Mohist-Community/Mohist.git) Mohist是基于Forge并融合Paper/Spigot/Bukkit的高性能Minecraft服务器软件(服务端)
 * [**CatServer**](https://github.com/Luohuayu/CatServer.git) CatServer是1.12.2的Forge+Bukkit+Spigot服务端核心,国内最早开发的1.12.2核心(服务端)
+* [**LoliServer**](https://github.com/Loli-Server/LoliServer.git) LoliServer是1.16.5基于Forge并融合Paper/Spigot/Bukkit的高性能高兼容性的服务端核心（服务端）
 
 管理者
 -------------
