@@ -1,0 +1,23 @@
+{
+  "version": "14.10",
+  "loadlist": [
+    {
+      "name": "StarLoginSkin",
+      "type": "Legacy",
+      "checkPNG": false,
+      "skin": "http://47.99.201.135:3100/skin?player={USERNAME}&mode=1",
+      "model": "auto",
+      "cape": "http://47.99.201.135:3100/skin?player={USERNAME}&mode=2",
+      "elytra": "http://47.99.201.135:3100/skin?player={USERNAME}&mode=3"
+    }
+  ],
+  "enableDynamicSkull": true,
+  "enableTransparentSkin": true,
+  "ignoreHttpsCertificate": false,
+  "forceLoadAllTextures": false,
+  "enableCape": true,
+  "cacheExpiry": 10,
+  "enableUpdateSkull": true,
+  "enableLocalProfileCache": true,
+  "enableCacheAutoClean": true
+}

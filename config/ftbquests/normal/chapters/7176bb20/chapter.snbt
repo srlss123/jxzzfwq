@@ -1,0 +1,17 @@
+{
+	title: "121",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "",
+	images: [{
+		x: -5.0d,
+		y: -2.0d,
+		width: 1.0d,
+		height: 1.0d,
+		rotation: 0.0d,
+		image: "http://49.73.13.90:3031/server/1.jpg",
+		hover: [],
+		click: "",
+		dev: false
+	}]
+}
