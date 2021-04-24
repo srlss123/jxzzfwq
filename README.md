@@ -18,9 +18,14 @@
 
 上游项目
 ------
-* [**匠心之魂1.16.5**]
+* [**匠心之魂1.16.5**]![](https://img.shields.io/badge/building-fail-brightgreen.svg?colorB=DC3340)
+------
+
 * [**匠心之魂1.12.2**]![](https://img.shields.io/badge/building-success-brightgreen.svg?colorB=469C00)
-* [**匠心之魂1.7.10**]
+------
+
+* [**匠心之魂1.7.10**]![](https://img.shields.io/badge/building-fail-brightgreen.svg?colorB=DC3340)
+------
 
 特别感谢
 -------------
