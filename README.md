@@ -12,6 +12,7 @@
 [![](https://img.shields.io/badge/Catserver-1.12.2-brightgreen.svg?colorB=DC3340)](https://github.com/Luohuayu/CatServer.git)
 [![](https://img.shields.io/badge/AdoptOpenJDK-8u281-brightgreen.svg?colorB=469C00&logo=java)](https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot)
 [![](https://img.shields.io/badge/Gradle-6.8.1-brightgreen.svg?colorB=469C00&logo=gradle)](https://docs.gradle.org/6.8.1/release-notes.html)
+[![](https://img.shields.io/badge/%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E7%89%88%E6%9C%AC-1.0.8-brightgreen.svg?colorB=DC3340)](https://github.com/srlss123/jxzzfwq/stargazers)
 
 </div>
 
