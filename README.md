@@ -10,8 +10,8 @@
 [![](https://img.shields.io/badge/Forge-1.12.2--14.23.5.2855-brightgreen.svg?colorB=26303d&logo=Conda-Forge)](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html)
 [![](https://img.shields.io/badge/Mohist-1.12.2-brightgreen.svg?colorB=DC3340)]
 [![](https://img.shields.io/badge/Catserver-1.12.2-brightgreen.svg?colorB=DC3340)]
-[![](https://img.shields.io/badge/AdoptOpenJDK-8u281-brightgreen.svg?colorB=469C00&logo=java)](https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot)]
-[![](https://img.shields.io/badge/Gradle-6.8.1-brightgreen.svg?colorB=469C00&logo=gradle)](https://docs.gradle.org/6.8.1/release-notes.html)]
+[![](https://img.shields.io/badge/AdoptOpenJDK-8u281-brightgreen.svg?colorB=469C00&logo=java)](https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot)
+[![](https://img.shields.io/badge/Gradle-6.8.1-brightgreen.svg?colorB=469C00&logo=gradle)](https://docs.gradle.org/6.8.1/release-notes.html)
 
 </div>
 
