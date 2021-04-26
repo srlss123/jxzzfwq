@@ -23,9 +23,6 @@
 [![](https://img.shields.io/badge/Forge-1.12.2--14.23.5.2855-brightgreen.svg?colorB=26303d&logo=Conda-Forge)](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html)
 [![](https://img.shields.io/badge/Catserver-1.12.2-brightgreen.svg?colorB=DC3340)](https://github.com/Luohuayu/CatServer.git)
 [![](https://img.shields.io/badge/%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E7%89%88%E6%9C%AC-1.0.8-brightgreen.svg?colorB=DC3340)](https://github.com/srlss123/jxzzfwq/stargazers)
-------
-1.12.2版本：
-------
 花里胡哨包
 需要至少5.5G才能正常游玩，推荐配置16G分配9G
 
