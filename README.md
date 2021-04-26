@@ -19,10 +19,12 @@
 ------
 
 * [**匠心之魂1.12.2**]
+
 ![](https://img.shields.io/badge/building-success-brightgreen.svg?colorB=469C00)
 [![](https://img.shields.io/badge/Forge-1.12.2--14.23.5.2855-brightgreen.svg?colorB=26303d&logo=Conda-Forge)](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html)
 [![](https://img.shields.io/badge/Catserver-1.12.2-brightgreen.svg?colorB=DC3340)](https://github.com/Luohuayu/CatServer.git)
 [![](https://img.shields.io/badge/%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E7%89%88%E6%9C%AC-1.0.8-brightgreen.svg?colorB=DC3340)](https://github.com/srlss123/jxzzfwq/stargazers)
+
 花里胡哨包
 需要至少5.5G才能正常游玩，推荐配置16G分配9G
 
@@ -41,5 +43,11 @@
 
 管理者
 -------------
-* [**lisansi123**]lisansi123是服务器总管，负责服务器全权事务
-* 
+* [**lisansi123**]lisansi123是服务器总管，负责服务器全权事务。
+* [**Hao__Han**]Hao__Han是服务器副总理，可代替总管执行服务器全权事务。
+* [**Joker**]Joker是服务器副总理，可代替总管执行服务器全权事务。
+* [**FollowSpot**]FollowSpot是服务器副总理，负责服务器事务。
+* [**meng_nian**]meng_nian是服务器副总理，负责服务器事务。
+* [**timmy2016**]timmy2016是服务器技术参谋，负责服务器技术事务。
+* [**xiaohuiji**]xiaohuiji是服务器建筑组总理，是个萌妹子，负责服务器建筑事务
+
