@@ -26,7 +26,7 @@
 [![](https://img.shields.io/badge/Catserver-1.12.2-brightgreen.svg?colorB=DC3340)](https://github.com/Luohuayu/CatServer.git)
 [![](https://img.shields.io/badge/%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E7%89%88%E6%9C%AC-1.0.8-brightgreen.svg?colorB=DC3340)](https://github.com/srlss123/jxzzfwq/stargazers)
 
-[**项目简介**](https://github.com/srlss123/jxzzfwq/wiki/%E6%9C%8D%E5%8A%A1%E5%99%A81.12.2%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B)匠心之魂1.12.2项目是服务器主项目
+* [**项目简介**](https://github.com/srlss123/jxzzfwq/wiki/%E6%9C%8D%E5%8A%A1%E5%99%A81.12.2%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B) 匠心之魂1.12.2项目是服务器主项目
 
 ------
 
@@ -70,3 +70,4 @@
 
 服务器简介
 --------------
+>匠心之魂服务器，创始于2019/8/10 至今已有1年历史 服务器始终坚持以玩家为核心，为玩家打造最好的服务器环境
